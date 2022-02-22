@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681872994376",
+    "project_id": "paleerat-lastass-27",
+    "storage_bucket": "paleerat-lastass-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681872994376:android:21bbf445442fce060b687d",
+        "android_client_info": {
+          "package_name": "com.example.last_assignment_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681872994376-i22n5pasto4g06c28s8csnk84ulip7uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.last_assignment_01",
+            "certificate_hash": "960496b9b6aceda3bda1fc09ec28103f9012c271"
+          }
+        },
+        {
+          "client_id": "681872994376-odqg4p6dp3dcfmcl7df75akjpm3saghu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4O5MRJR9Srhpeje9plmkT8eGViDYLsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681872994376-odqg4p6dp3dcfmcl7df75akjpm3saghu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
